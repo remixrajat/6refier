@@ -1,0 +1,45 @@
+[
+    {
+        "serviceName" : "CEO, EaseAssist",
+        "quantityAlloted" : 1,
+        "quantityUsed" : 1,
+        "quantityRemaining" : 1
+    },
+    {
+        "serviceName" : "COO, EaseAssist",
+        "quantityAlloted" : 2,
+        "quantityUsed" : 2,
+        "quantityRemaining" : 2
+    },
+    {
+        "serviceName" : "CTO, EaseAssist",
+        "quantityAlloted" : 3,
+        "quantityUsed" : 3,
+        "quantityRemaining" : 3
+    },
+    {
+        "serviceName" : "Salesman, EaseAssist",
+        "quantityAlloted" : 4,
+        "quantityUsed" : 4,
+        "quantityRemaining" : 4
+    },
+    {
+        "serviceName" : "Bakchod, EaseAssist",
+        "quantityAlloted" : 5,
+        "quantityUsed" : 5,
+        "quantityRemaining" : 5
+    },
+    {
+        "serviceName" : "Advisor, EaseAssist",
+        "quantityAlloted" : 6,
+        "quantityUsed" : 6,
+        "quantityRemaining" : 6
+    },
+    {
+        "serviceName" : "Random Post, EaseAssist",
+        "quantityAlloted" : 7,
+        "quantityUsed" : 7,
+        "quantityRemaining" : 7
+    }
+]
+

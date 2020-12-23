@@ -1,0 +1,10 @@
+For reat-reactions:
+https://github.com/casesandberg/react-reactions/issues/2
+https://casesandberg.github.io/react-reactions/
+
+For Fontawesome icons:
+https://fontawesome.com/v4.7.0/icons/
+
+28 May 2019 --- Experiment
+Changing Color #536fac to #049cdb
+

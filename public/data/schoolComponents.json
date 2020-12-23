@@ -1,0 +1,11 @@
+{
+  "studentActive" : "40",
+  "studentInactive" : "100",
+ "teacherActive"  :  "50" ,
+ "counsellor1"    : "Shourya" ,
+ "counsellor2"     : "Ayush",
+ "class" : ["Nur-A","Nur-B","LKG-A","1-A","1-B","2-A","2-B","3-A"],
+ "teacherInactive" : "20",
+ "moreclass"    : ["4-A","5-A","6-A"]
+
+}

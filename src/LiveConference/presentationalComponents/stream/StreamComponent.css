@@ -1,0 +1,101 @@
+.nickname {
+  background: rgba(58, 64, 74, 0.651);
+  padding: 5px !important;
+  position: absolute;
+  z-index: 999;
+  color: #ffffff; }
+
+.form-control {
+  color: #494949; }
+
+.pointer {
+  cursor: pointer; }
+
+#closeButton {
+  position: absolute;
+  top: -3px;
+  right: 0;
+  z-index: 999; }
+
+#name-error-text {
+  font-family: "Roboto", Arial, Verdana, sans-serif;
+  color: #fd6d5f;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 0.01em;
+  font-size: 12px; }
+
+#nicknameForm {
+  padding: 10px; }
+
+.fullscreen {
+  top: 40px; }
+
+.streamComponent {
+  height: 100%; }
+
+video {
+  -o-object-fit: cover;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-family: "Roboto", Arial, Verdana, sans-serif; }
+
+#statusIcons {
+  bottom: 0;
+  background: #c71100;
+  width: 40px;
+  height: fit-content;
+  position: absolute;
+  color: #ffffff; }
+
+#camIcon,
+#micIcon {
+  text-align: center;
+  padding: 6px; }
+
+#fullscreenButton {
+  position: absolute;
+  bottom: 1px;
+  right: 1px;
+  z-index: 1000;
+  background-color: #000000c4; }
+
+#volumeButton {
+  background-color: #000000c4;
+  position: absolute;
+  bottom: 45px;
+  right: 1px;
+  z-index: 1000;
+  color: #ffffff; }
+
+/* Contains the video element, used to fix video letter-boxing */
+.OT_widget-container {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  overflow: hidden; }
+
+.conference-nickname {
+  color: #fafafa; }
+
+.change-name-text-components {
+  font-family: "Roboto", Arial, Verdana, sans-serif;
+  color: #494949; }
+
+.conference-close-button {
+  padding: 0;
+  margin: 0;
+  color: #fafafa;
+  font-size: 12px; }
+
+.name-submit-button {
+  font-family: "Roboto", Arial, Verdana, sans-serif;
+  padding: 0px 5px !important;
+  color: #fafafa;
+  background: #2b1111; }

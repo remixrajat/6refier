@@ -1,0 +1,129 @@
+{
+  "feedsData": {
+    "communityPostCard": {
+      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean",
+      "time":"6:00 PM, 24 April",
+      "organization":"ABC School"
+    },
+    "anonymousPrivatePostCard": {
+      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean",
+      "time":"6:00 PM, 21 April",
+      "organization":"Anonymous, Mentor Community/ABC School",
+      "imageSrc": "images/mentor_dashboard_page/mentor_counselor_photo_u279.png",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean",
+      "accessType": "private"
+    },
+    "userCommunityPostCard": {
+      "imageSrc":"images/mentor_dashboard_page/user_photo_u283.png",
+      "author": "Ayush Poddar",
+      "organization": "Mentor Community/ABC School",
+      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "time":"6:00 PM, 21 April",
+      "comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean",
+      "mentorImg":"images/mentor_dashboard_page/mentor_counselor_photo_u279.png"
+    },
+    "userCommunityPublicPostCard": {
+      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean",
+      "author": "Ayush Poddar",
+      "time":"6:00 PM, 21 April",
+      "organization":"Mentor Community/ABC School",
+      "imageSrc": "images/mentor_dashboard_page/user_photo_u283.png",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean",
+      "accessType": "public",
+      "mentorImg":"images/mentor_dashboard_page/mentor_counselor_photo_u279.png"
+    },
+    "userQuestionPrivatePostCard": {
+      "imageSrc": "/images/mentor_dashboard_page/user_photo_u283.png",
+      "author": "Ayush Poddar",
+      "organization": "Mentor Community/ABC School",
+      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "time": "6:00 PM, 21 April",
+      "accessType":"private",
+      "buttonLabel":"Submit/Edit"
+    },
+    "userQuestionPublicPostCard": {
+      "imageSrc": "/images/mentor_dashboard_page/user_photo_u283.png",
+      "author": "Ayush Poddar",
+      "organization": "Mentor Community/ABC School",
+      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "time": "6:00 PM, 21 April",
+      "accessType":"public",
+      "buttonLabel":"Submit/Edit",
+      "selected": "yes-button"
+    },
+    "blogPostCard": {
+      "imageSrc": "images/mentor_dashboard_page/blog_photo_u315.png",
+      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean",
+      "time": "6:00 PM, 21 April",
+      "organization": "Mentor Community/ABC School/Third Person, XYZ",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "useful": "yes/no"
+    }
+  },
+  "questionsData": {
+    "anonymousPrivatePostCard": {
+      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean",
+      "time":"6:00 PM, 21 April",
+      "organization":"Anonymous, Mentor Community/ABC School",
+      "imageSrc": "images/mentor_dashboard_page/mentor_counselor_photo_u279.png",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean",
+      "accessType": "private"
+    },
+    "userCommunityPostCard": {
+      "imageSrc":"images/mentor_dashboard_page/user_photo_u283.png",
+      "author": "Ayush Poddar",
+      "organization": "Mentor Community/ABC School",
+      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "time":"6:00 PM, 21 April",
+      "comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean",
+      "mentorImg":"images/mentor_dashboard_page/mentor_counselor_photo_u279.png"
+    },
+    "userCommunityPublicPostCard": {
+      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean",
+      "author": "Ayush Poddar",
+      "time":"6:00 PM, 21 April",
+      "organization":"Mentor Community/ABC School",
+      "imageSrc": "images/mentor_dashboard_page/user_photo_u283.png",
+      "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean",
+      "accessType": "public",
+      "mentorImg":"images/mentor_dashboard_page/mentor_counselor_photo_u279.png"
+    },
+    "userQuestionPrivatePostCard": {
+      "imageSrc": "/images/mentor_dashboard_page/user_photo_u283.png",
+      "author": "Ayush Poddar",
+      "organization": "Mentor Community/ABC School",
+      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "time": "6:00 PM, 21 April",
+      "accessType":"private",
+      "buttonLabel":"Submit/Edit"
+    },
+    "userQuestionPublicPostCard": {
+      "imageSrc": "/images/mentor_dashboard_page/user_photo_u283.png",
+      "author": "Ayush Poddar",
+      "organization": "Mentor Community/ABC School",
+      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "time": "6:00 PM, 21 April",
+      "accessType":"public",
+      "buttonLabel":"Submit/Edit",
+      "selected": "yes-button"
+    }
+  },
+  "updatesData": {
+    "communityPostCard": {
+      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean",
+      "time":"6:00 PM, 24 April",
+      "organization":"ABC School"
+    },
+    "blogPostCard": {
+      "imageSrc": "images/mentor_dashboard_page/blog_photo_u315.png",
+      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean",
+      "time": "6:00 PM, 21 April",
+      "organization": "Mentor Community/ABC School/Third Person, XYZ",
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "useful": "yes/no"
+    }
+  },
+  "profileData": {
+    "note": "You guys implement these components"
+  }
+}

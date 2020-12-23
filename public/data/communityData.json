@@ -1,0 +1,35 @@
+[
+    {
+        "id" : 1,
+        "CommunityName" : "ABC School"
+    },    
+    {
+        "id" : 2,
+        "CommunityName" : "DEF School"
+    },
+    {
+        "id" : 3,
+        "CommunityName" : "GHI School"
+    },
+    {
+        "id" : 4,
+        "CommunityName" : "JKL School"
+    },
+    {
+        "id" : 5,
+        "CommunityName" : "MNO School"
+    },
+    {
+        "id" : 6,
+        "CommunityName" : "PQR School"
+    },
+    {
+        "id" : 7,
+        "CommunityName" : "STU School"
+    },
+    {
+        "id" : 8,
+        "CommunityName" : "VWX School"
+    }  
+
+]

@@ -1,0 +1,34 @@
+#dialogExtension {
+  position: fixed;
+  z-index: 99999999999999;
+  padding: 20px 40px;
+  top: 40%;
+  left: 30%;
+  border-radius: 6px;
+  background: #f6f6f6; }
+
+#dialogExtension p {
+  margin: 0;
+  padding: 0;
+  color: #494949;
+  letter-spacing: 0.015em;
+  font-family: "Roboto", Arial, Verdana, sans-serif; }
+
+#dialogExtension button {
+  margin-right: 15px; }
+
+#errorDialogExtension {
+  position: fixed;
+  z-index: 99999999999999;
+  padding: 20px 40px;
+  top: 15%;
+  left: 50%;
+  border-radius: 6px;
+  background: #f6f6f6; }
+
+#errorDialogExtension p {
+  margin: 0;
+  padding: 0;
+  color: #494949;
+  letter-spacing: 0.015em;
+  font-family: "Roboto", Arial, Verdana, sans-serif; }

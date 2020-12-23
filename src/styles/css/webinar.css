@@ -1,0 +1,118 @@
+.webinar-mentor {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 1.4em;
+  color: black;
+  letter-spacing: 0.1em;
+  line-height: 1.4em; }
+
+.webinar-mentor-small {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 1em;
+  color: black;
+  letter-spacing: 0.1em;
+  line-height: 1.4em; }
+
+.webinar-mentor-image {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%; }
+
+.webinar-mentor-image-small {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%; }
+
+.generic-post-card-left-text {
+  position: absolute;
+  top: 0px;
+  left: 15px;
+  height: 100%;
+  width: 35%;
+  background-color: white;
+  opacity: 0.8;
+  text-align: center;
+  padding: 20px; }
+
+.webinar-toggle-section {
+  margin-left: 25px;
+  display: block;
+  background: rgba(245, 246, 252, 0.7);
+  padding: 15px;
+  margin-bottom: 30px;
+  border-radius: 3px; }
+
+.webinar-topic {
+  font-size: 1.8em;
+  font-family: "Raleway";
+  font-weight: 500;
+  color: #212121; }
+
+.webinar-subtopic {
+  font-size: 1.2em;
+  font-family: "Roboto";
+  font-weight: 400;
+  color: #797979;
+  line-height: 1.5em;
+  white-space: pre-wrap; }
+
+.webinar-optionbox {
+  background-color: #F5F6FC;
+  text-align: center;
+  font-size: 1.4em;
+  font-family: "Roboto";
+  font-weight: 500;
+  color: #555; }
+
+.webinar-header {
+  font-size: 1.6em;
+  font-family: "Roboto";
+  font-weight: 500;
+  color: #212121; }
+
+.webinar-subheader {
+  font-size: 1.4em;
+  font-family: "Roboto";
+  font-weight: 400;
+  color: #555; }
+
+.webinar-details {
+  font-size: 1.2em;
+  font-family: "Roboto";
+  font-weight: 400;
+  color: #797979; }
+
+.rtc-text-box {
+  width: 100%;
+  margin-bottom: 25px;
+  text-align: center;
+  border-bottom: 1px solid #797979;
+  line-height: 0.04em; }
+
+.rtc-text-box > span {
+  background: #fff;
+  font-family: "Roboto";
+  font-size: 1em;
+  letter-spacing: 0.02em;
+  padding-left: 15px;
+  padding-right: 15px; }
+
+.webinar-test-modal-subtitle {
+  width: 100%;
+  text-align: left;
+  border-bottom: 1px solid #797979;
+  line-height: 0.04em;
+  margin-bottom: 25px; }
+
+.webinar-test-modal-subtitle > span {
+  padding-right: 15px; }
+
+.attendees-presenters-stream-status {
+  display: flex;
+  justify-content: space-around;
+  align-items: center; }
+
+.attendees-presenters-stream-status > span {
+  font-size: 18px;
+  color: #797979; }

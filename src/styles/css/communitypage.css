@@ -1,0 +1,170 @@
+* {
+  box-sizing: border-box; }
+
+.social-container {
+  background: #262626;
+  padding-top: 3em; }
+
+.sizable-image-container > img, div.full-size-image > img {
+  display: inline-block;
+  width: 100%; }
+
+div textarea {
+  display: inline-block;
+  width: 100%; }
+
+.span-button {
+  border: 1px solid #CCC;
+  padding: 1px 5px; }
+
+.span-button:first-child {
+  border-right: 0px; }
+
+.card-button {
+  background-color: #48528c;
+  color: #fff;
+  padding: 6px;
+  border: 0;
+  border-radius: 0;
+  width: 100%; }
+
+.yes-button, .no-button {
+  background-color: #48528c;
+  border: 0; }
+
+@media screen and (max-width: 768px) {
+  div.sizable-image > img {
+    display: inline-block;
+    width: 40%;
+    text-align: center; }
+  div.sizable-image + div * {
+    text-align: center; } }
+
+.access-tag {
+  display: inline-block;
+  background-color: #f2f2f2;
+  box-sizing: border-box;
+  border: 1px solid #cccccc; }
+
+.marginbtn {
+  margin-left: 5px;
+  margin-right: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+  box-sizing: border-box;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #48528c;
+  border-radius: 0px;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none; }
+
+.schoolhead {
+  color: white;
+  font-family: 'Ubuntu Medium','Ubuntu Regular','Ubuntu';
+  font-weight: 500;
+  font-style: normal;
+  font-size: 16px;
+  text-align: center; }
+
+.bordermargin {
+  margin-top: 10px;
+  color: "transparent";
+  border-bottom: 2px solid #CCCCCC; }
+
+.customSmallImage {
+  height: 50px;
+  width: 50px;
+  /* margin: 10px 10px 0 0px; */ }
+
+.generic-community-info-card {
+  padding: 0 0;
+  background-color: white;
+  box-sizing: border-box;
+  border-width: 0px;
+  border-style: solid;
+  -moz-box-shadow: 1px 3px 5px rgba(153, 153, 153, 0.34902);
+  -webkit-box-shadow: 1px 3px 5px rgba(153, 153, 153, 0.34902);
+  box-shadow: 1px 3px 5px rgba(153, 153, 153, 0.34902); }
+
+.refier_custom_desc {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  color: #797979;
+  text-align: center;
+  margin-top: 10px; }
+
+.refier_custom_desc_white {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  color: #f2f2f2;
+  text-align: center;
+  margin-top: 10px; }
+
+.group-discussion-form label {
+  font-size: 12px;
+  font-weight: 400;
+  text-align: left !important; }
+
+.group-discussion-form, .group-discussion-form .checkbox > label {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-style: normal;
+  font-size: 14px;
+  color: #777; }
+
+.group-discussion-form input, .group-discussion-form textarea {
+  font-family: 'Raleway'; }
+
+.form-status-success {
+  display: block;
+  background: #4abda5;
+  padding: 5px 0 5px 0;
+  text-align: center;
+  margin: 10px auto;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-weight: 600; }
+
+.form-status-fail {
+  display: block;
+  background: #df5b4a;
+  padding: 5px 0 5px 0;
+  text-align: center;
+  margin: 10px auto;
+  color: #f7f7f7;
+  text-transform: capitalize;
+  letter-spacing: 1.5px;
+  font-weight: 600; }
+
+.community-marketplace-tab-wrapper ul.nav {
+  display: flex;
+  justify-content: center; }
+
+.community-marketplace-tab-wrapper .nav-pills > li.active > a,
+.community-marketplace-tab-wrapper .nav-pills > li.active > a:hover,
+.community-marketplace-tab-wrapper .nav-pills > li.active > a:focus {
+  color: #fff;
+  background-color: #049cdb;
+  font-family: "Raleway";
+  font-weight: 600;
+  border-color: transparent;
+  /* padding-left: 20px !important;
+  padding-right: 20px !important;
+  border-radius: 20px !important; */
+  box-shadow: 1px 3px 5px rgba(153, 153, 153, 0.5); }
+
+.community-marketplace-tab-wrapper .nav-pills > li > a {
+  color: #049cdb;
+  /* padding-left: 20px !important;
+  padding-right: 20px !important;
+  border-radius: 20px !important; */
+  font-family: "Raleway";
+  font-weight: 400;
+  /* color: #797979; */ }

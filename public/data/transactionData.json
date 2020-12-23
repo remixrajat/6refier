@@ -1,0 +1,56 @@
+[
+    {
+        "model": "paymentservice.paymenttransactionhistory", 
+        "pk": 1, 
+        "fields": {
+            "productinfo": "Some Webinar",
+            "service_provider": "razorpay",
+            "amount": "1000",
+            "order_id": "89a9dsf-as8fd9sa",
+            "payment_id": "8888asdf9d8sf89",
+            "transaction_time": "",
+            "transaction_status": "pending",
+            "order_transaction_response": "",
+            "capture_transaction_response": "",
+            "order_creation_status": "",
+            "capture_status": "",
+            "is_refund": ""
+        }
+    },
+    {
+        "model": "paymentservice.paymenttransactionhistory", 
+        "pk": 2, 
+        "fields": {
+            "productinfo": "Some Webinar 3",
+            "service_provider": "razorpay",
+            "amount": "1500",
+            "order_id": "asd98f88s9sadf",
+            "payment_id": "asdfplps0-a99a",
+            "transaction_time": "",
+            "transaction_status": "success",
+            "order_transaction_response": "",
+            "capture_transaction_response": "",
+            "order_creation_status": "",
+            "capture_status": "",
+            "is_refund": ""
+        }
+    },
+    {
+        "model": "paymentservice.paymenttransactionhistory", 
+        "pk": 3, 
+        "fields": {
+            "productinfo": "Some Webinar 2",
+            "service_provider": "razorpay",
+            "amount": "500",
+            "order_id": "asd98f9sadf",
+            "payment_id": "asdfplps0-a99a",
+            "transaction_time": "",
+            "transaction_status": "failed",
+            "order_transaction_response": "",
+            "capture_transaction_response": "",
+            "order_creation_status": "",
+            "capture_status": "",
+            "is_refund": ""
+        }
+    }
+]

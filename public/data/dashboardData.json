@@ -1,0 +1,39 @@
+{
+  "communityPostCard": {
+    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean",
+    "time":"6:00 PM, 24 April",
+    "organization":"ABC School"
+  },
+  "anonymousPostCard": {
+    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean",
+    "time":"6:00 PM, 21 April",
+    "organization":"Anonymous, Mentor Community/ABC School",
+    "imageSrc": "images/mentor_dashboard_page/mentor_counselor_photo_u279.png",
+    "comment": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean"
+  },
+  "userCommunityPostCard": {
+    "imageSrc":"images/mentor_dashboard_page/user_photo_u283.png",
+    "author": "Ayush Poddar",
+    "organization": "Mentor Community/ABC School",
+    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "time":"6:00 PM, 21 April",
+    "comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean"
+  },
+  "userQuestionPostCard": {
+    "imageSrc": "/images/mentor_dashboard_page/user_photo_u283.png",
+    "author": "Ayush Poddar",
+    "organization": "Mentor Community/ABC School",
+    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "time": "6:00 PM, 21 April",
+    "accessControl":"public",
+    "buttonLabel":"Submit/Edit"
+  },
+  "blogPostCard": {
+    "imageSrc": "images/mentor_dashboard_page/blog_photo_u315.png",
+    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean",
+    "time": "6:00 PM, 21 April",
+    "organization": "Mentor Community/ABC School/Third Person, XYZ",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "useful": "yes/no"
+  }
+}

@@ -1,0 +1,790 @@
+[
+    {
+        "TeacherID": "1",
+        "TeacherName":"Abhishek Kumar",
+        "Subjects":["1-A-Maths","2-A-English","3-B-Hindi"],
+        "SubjectTestDetails": [
+            {
+                "Subject":"1-A-Maths",
+                "Tests":[
+                    {
+                        "TestName":"Unit Test-1",
+                        "MaxMarks":"50",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"25"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"22"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"20"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"40"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"15"
+                            }
+                        ]
+                    },
+                    {
+                        "TestName":"Unit Test-2",
+                        "MaxMarks":"80",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"35"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"12"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"40"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"50"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"5"
+                            }
+                        ]
+                    },
+                    {
+                        "TestName":"Unit Test-3",
+                        "MaxMarks":"20",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"15"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"12"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"10"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"10"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"15"
+                            }
+                        ]
+                    },
+                    {
+                        "TestName":"Unit Test-4",
+                        "MaxMarks":"50",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"25"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"22"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"20"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"40"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"15"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Subject":"2-A-English",
+                "Tests":[
+                    {
+                        "TestName":"Unit Test-1",
+                        "MaxMarks":"50",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"15"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"12"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"10"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"20"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"19"
+                            }
+                        ]
+                    },
+                    {
+                        "TestName":"Unit Test-2",
+                        "MaxMarks":"80",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"15"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"32"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"20"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"30"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"45"
+                            }
+                        ]
+                    },
+                    {
+                        "TestName":"Unit Test-3",
+                        "MaxMarks":"20",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"25"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"12"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"10"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"10"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"15"
+                            }
+                        ]
+                    },
+                    {
+                        "TestName":"Unit Test-4",
+                        "MaxMarks":"50",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"25"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"22"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"20"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"40"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"15"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Subject":"3-B-Hindi",
+                "Tests":[
+                    {
+                        "TestName":"Unit Test-1",
+                        "MaxMarks":"90",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"25"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"22"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"20"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"40"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"15"
+                            }
+                        ]
+                    },
+                    {
+                        "TestName":"Unit Test-2",
+                        "MaxMarks":"50",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"35"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"12"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"40"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"50"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"5"
+                            }
+                        ]
+                    },
+                    {
+                        "TestName":"Unit Test-3",
+                        "MaxMarks":"30",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"15"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"12"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"10"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"10"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"15"
+                            }
+                        ]
+                    },
+                    {
+                        "TestName":"Unit Test-4",
+                        "MaxMarks":"50",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"25"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"22"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"20"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"40"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"15"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "TeacherID": "2",
+        "TeacherName":"Janika Gahlot",
+        "Subjects":["1-A-English","2-A-Maths","3-B-Science"],
+        "SubjectTestDetails": [
+            {
+                "Subject":"1-A-English",
+                "Tests":[
+                    {
+                        "TestName":"Unit Test-1",
+                        "MaxMarks":"100",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"25"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"22"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"20"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"40"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"15"
+                            }
+                        ]
+                    },
+                    {
+                        "TestName":"Unit Test-2",
+                        "MaxMarks":"90",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"35"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"12"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"40"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"50"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"5"
+                            }
+                        ]
+                    },
+                    {
+                        "TestName":"Unit Test-3",
+                        "MaxMarks":"50",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"15"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"12"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"10"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"10"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"15"
+                            }
+                        ]
+                    },
+                    {
+                        "TestName":"Unit Test-4",
+                        "MaxMarks":"60",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"25"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"22"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"20"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"40"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"15"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Subject":"2-A-Maths",
+                "Tests":[
+                    {
+                        "TestName":"Unit Test-1",
+                        "MaxMarks":"40",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"25"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"22"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"20"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"40"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"15"
+                            }
+                        ]
+                    },
+                    {
+                        "TestName":"Unit Test-2",
+                        "MaxMarks":"70",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"35"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"12"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"40"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"50"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"5"
+                            }
+                        ]
+                    },
+                    {
+                        "TestName":"Unit Test-3",
+                        "MaxMarks":"30",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"15"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"12"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"10"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"10"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"15"
+                            }
+                        ]
+                    },
+                    {
+                        "TestName":"Unit Test-4",
+                        "MaxMarks":"90",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"25"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"22"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"20"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"40"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"15"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "Subject":"3-B-Science",
+                "Tests":[
+                    {
+                        "TestName":"Unit Test-1",
+                        "MaxMarks":"100",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"25"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"22"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"20"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"40"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"15"
+                            }
+                        ]
+                    },
+                    {
+                        "TestName":"Unit Test-2",
+                        "MaxMarks":"100",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"35"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"12"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"40"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"50"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"5"
+                            }
+                        ]
+                    },
+                    {
+                        "TestName":"Unit Test-3",
+                        "MaxMarks":"100",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"15"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"12"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"10"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"10"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"15"
+                            }
+                        ]
+                    },
+                    {
+                        "TestName":"Unit Test-4",
+                        "MaxMarks":"100",
+                        "TestDetails":[
+                            {
+                                "StudentID":"1",
+                                "StudentName":"Ayush Poddar",
+                                "Marks":"25"
+                            },
+                            {
+                                "StudentID":"2",
+                                "StudentName":"Abhishek Kumar",
+                                "Marks":"22"
+                            },
+                            {
+                                "StudentID":"3",
+                                "StudentName":"Avinash Kumar",
+                                "Marks":"20"
+                            },
+                            {
+                                "StudentID":"4",
+                                "StudentName":"Ankur Gupta",
+                                "Marks":"40"
+                            },
+                            {
+                                "StudentID":"5",
+                                "StudentName":"Akash Modi",
+                                "Marks":"15"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

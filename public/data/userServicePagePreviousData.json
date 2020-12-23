@@ -1,0 +1,55 @@
+[
+    {
+        "id" : 1,
+        "event" : "Shourya Sharma",
+        "description" : "CEO, EaseAssist",
+        "date" : "CEO, EaseAssist",
+        "time" : 1
+    },
+    {
+        "id" : 2,
+        "event" : "Ayush Poddar",
+        "description" : "COO, EaseAssist",
+        "date" : "CEO, EaseAssist",
+        "time" : 1
+
+    },
+    {
+        "id" : 3,
+        "event" : "Abhishek Kumar",
+        "description" : "CTO, EaseAssist",
+        "date" : "CEO, EaseAssist",
+        "time" : 1
+
+    },
+    {
+        "id" : 4,
+        "event" : "Akash Deep",
+        "description" : "Salesman, EaseAssist",
+        "date" : "CEO, EaseAssist",
+        "time" : 1
+
+    },
+    {
+        "id" : 5,
+        "event" : "Ajay Kumar",
+        "description" : "Bakchod, EaseAssist",
+        "date" : "CEO, EaseAssist",
+        "time" : 1
+
+    },
+    {
+        "id" : 6,
+        "event" : "Okesh Goyal",
+        "description" : "Advisor, EaseAssist",
+        "date" : "CEO, EaseAssist",
+        "time" : 1
+    },
+    {
+        "id" : 7,
+        "event" : "Karan Singh",
+        "description" : "Random Post, EaseAssist",
+        "date" : "CEO, EaseAssist",
+        "time" : 1
+    }
+]

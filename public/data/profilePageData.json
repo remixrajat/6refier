@@ -1,0 +1,144 @@
+{
+  "profileData": {
+    "commonDetails": {
+      "school": "ABC School",
+      "college": "ABC College of Technology"
+    },
+    "userDetails": {
+      "name":"Ayush Poddar",
+      "mobileNo":"+91-8790909745",
+      "email":"ayush.poddar20@gmail.com",
+      "dob":"20-August-1992"
+    },
+    "status":{
+      "statusInfo":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod"
+    },
+    "communityMentorCard" : {
+      "school": "ABC School",
+      "college": "ABC College of Technology",
+      "card" : "Community Mentor"
+    },
+    "communityMemberCard" : {
+      "school": "ABC School",
+      "college": "ABC College of Technology",
+      "card" : "Community Member"
+    },
+    "communityOwnerCard" : {
+      "school": "ABC School",
+      "college": "ABC College of Technology",
+      "card" : "Community Owner"
+    },
+    "profileImage" : {
+      "imageSrc" : "images/profile_page/user_image_u137.png",
+      "status":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod"
+    },
+    "goals" : {
+      "name":"My Goals and Aspirations",
+      "opt": ["I want to work for NASA.", "I want to be an Astronaut."]
+    },
+    "skillsLearn":{
+      "name":"Skills, I want to learn",
+      "opt":["Book Writer","Motivational Speaker"]
+    },
+    "achievements":{
+      "name":"My Achievements",
+      "opt":["I have participated in National Science Olympiad","I have cleared IIT-JEE Exam in 2010"]
+    },
+    "skillsHave":{
+      "name":"Skills, I have",
+      "opt":["Ethical Hacking","Web Designing"]
+    },
+    "interests":{
+      "name":"My Interests and Hobbies",
+      "opt":["Electronics and Robotics","Watching videos on Astronomy"]
+    },
+    "profDetails":{
+      "name":"My Professional Details",
+      "institutions":[
+        {
+        "opt":"DPS Public School",
+        "val1":"Principal",
+        "val2":"2015-Present",
+        "val3":"I am working on the cutting edge changes in education."
+        },
+        {
+        "opt":"Army Public School",
+        "val1":"Maths, HOD",
+        "val2":"2014-2015",
+        "val3":"I was responsible to monitor and work on the ways to improve the quality of maths education"
+        }
+      ]  
+    },
+    "eduDetails":{
+      "name":"My Education Details",
+      "institutions":[
+        {
+        "opt":"IIT Roorkee",
+        "val1":"BTech, EE",
+        "val2":"2010-2014",
+        "val3":"I was the gold medalist with Institute Rank-1"
+        },
+        {
+        "opt":"Delhi Public School",
+        "val1":"10th-12th",
+        "val2":"2007-2010",
+        "val3":"I was the gold medalist and board topper"
+        },
+        {
+        "opt":"Army Public School",
+        "val1":"Nursery-9th",
+        "val2":"1995-2007",
+        "val3":"I was the head boy of the school in class 9th"
+        }
+      ]
+    },
+    "questions":
+    {
+      "name":"Questions, I asked",
+      "ques":[
+        {
+          "q":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod",
+          "val":"Mentor Community/ ABC School",
+          "time":"6:00 PM, 21 April",
+          "qa":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod"
+        },
+        {
+          "q":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod",
+          "val":"Mentor Community/ ABC School",
+          "time":"6:00 PM, 21 April",
+          "qa":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod"
+        }
+      ]  
+    },
+    "requests":{
+      "name":"Requests, I raised",
+      "req":[
+        {
+          "r":"Subscribe to Newsletter",
+          "stat":"Done"
+        },
+        {
+          "r":"Apply for Mentorship Program",
+          "stat":"Raised"
+        }
+      ]
+    },
+    "favMentors":{
+      "name":"My Favourite Mentors",
+      "val":["Ayush Poddar","Ish Anand"]
+    },
+    "certificates":{
+      "name":"My Certificates",
+      "val":["Introduction to Philosophy and Metaphysics",
+        "Introduction to Entrepreneurship"]
+    },
+    "blog":{
+      "name":"Blogs, I liked",
+      "opt1":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod",
+      "imageSrc":"images/profile_page/blog_photo_u520.png",
+      "val1":"Mentor Community/ABC School/Third Person, XYZ",
+      "time1":"6:00 PM, 21 April",
+      "val2":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+  }
+}

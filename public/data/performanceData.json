@@ -1,0 +1,182 @@
+[
+    {
+        "Test": "Test1",
+        "Subjects":["Maths","English","Hindi"],
+        "StudentDetails": [
+            {
+                "StudentId": "1",
+                "StudentName": "Ayush Poddar",
+                "Subjects":[
+                    {
+                        "Subject":"Maths",
+                        "MaxMarks":"50",
+                        "Marks":"25"
+                    },
+                    {
+                        "Subject":"English",
+                        "MaxMarks":"50",
+                        "Marks":"25"
+                    },
+                    {
+                        "Subject":"Hindi",
+                        "MaxMarks":"70",
+                        "Marks":"25"
+                    }
+                ]
+            },
+            {
+                "StudentId": "2",
+                "StudentName": "Shourya Sharma",
+                "Subjects":[
+                    {
+                        "Subject":"Maths",
+                        "MaxMarks":"50",
+                        "Marks":"24"
+                    },
+                    {
+                        "Subject":"English",
+                        "MaxMarks":"50",
+                        "Marks":"22"
+                    },
+                    {
+                        "Subject":"Hindi",
+                        "MaxMarks":"70",
+                        "Marks":"22"
+                    }
+                ]
+            },
+            {
+                "StudentId": "3",
+                "StudentName": "Abhishek Kumar",
+                "Subjects":[
+                    {
+                        "Subject":"Maths",
+                        "MaxMarks":"50",
+                        "Marks":"21"
+                    },
+                    {
+                        "Subject":"English",
+                        "MaxMarks":"50",
+                        "Marks":"19"
+                    },
+                    {
+                        "Subject":"Hindi",
+                        "MaxMarks":"70",
+                        "Marks":"55"
+                    }
+                ]
+            },
+            {
+                "StudentId": "4",
+                "StudentName": "Okesh Goyal",
+                "Subjects":[
+                    {
+                        "Subject":"Maths",
+                        "MaxMarks":"50",
+                        "Marks":"21"
+                    },
+                    {
+                        "Subject":"English",
+                        "MaxMarks":"50",
+                        "Marks":"22"
+                    },
+                    {
+                        "Subject":"Hindi",
+                        "MaxMarks":"70",
+                        "Marks":"37"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "Test": "Test2",
+        "Subjects":["Maths","English","Hindi"],
+        "StudentDetails": [
+            {
+                "StudentId": "1",
+                "StudentName": "Ayush Poddar",
+                "Subjects":[
+                    {
+                        "Subject":"Maths",
+                        "MaxMarks":"50",
+                        "Marks":"25"
+                    },
+                    {
+                        "Subject":"English",
+                        "MaxMarks":"50",
+                        "Marks":"25"
+                    },
+                    {
+                        "Subject":"Hindi",
+                        "MaxMarks":"70",
+                        "Marks":"25"
+                    }
+                ]
+            },
+            {
+                "StudentId": "2",
+                "StudentName": "Shourya Sharma",
+                "Subjects":[
+                    {
+                        "Subject":"Maths",
+                        "MaxMarks":"50",
+                        "Marks":"24"
+                    },
+                    {
+                        "Subject":"English",
+                        "MaxMarks":"50",
+                        "Marks":"22"
+                    },
+                    {
+                        "Subject":"Hindi",
+                        "MaxMarks":"70",
+                        "Marks":"22"
+                    }
+                ]
+            },
+            {
+                "StudentId": "3",
+                "StudentName": "Abhishek Kumar",
+                "Subjects":[
+                    {
+                        "Subject":"Maths",
+                        "MaxMarks":"50",
+                        "Marks":"21"
+                    },
+                    {
+                        "Subject":"English",
+                        "MaxMarks":"50",
+                        "Marks":"19"
+                    },
+                    {
+                        "Subject":"Hindi",
+                        "MaxMarks":"70",
+                        "Marks":"55"
+                    }
+                ]
+            },
+            {
+                "StudentId": "4",
+                "StudentName": "Okesh Goyal",
+                "Subjects":[
+                    {
+                        "Subject":"Maths",
+                        "MaxMarks":"50",
+                        "Marks":"21"
+                    },
+                    {
+                        "Subject":"English",
+                        "MaxMarks":"50",
+                        "Marks":"22"
+                    },
+                    {
+                        "Subject":"Hindi",
+                        "MaxMarks":"70",
+                        "Marks":"37"
+                    }
+                ]
+            }
+        ]
+    }
+]

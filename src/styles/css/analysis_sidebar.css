@@ -1,0 +1,16 @@
+.SideBar {
+  position: fixed;
+  width: 280px;
+  max-width: 70%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: 200;
+  background-color: white;
+  padding: 100px 16px;
+  box-sizing: border-box; }
+
+.Chart {
+  /* position: fixed; */
+  padding-left: 290px;
+  height: 100%; }

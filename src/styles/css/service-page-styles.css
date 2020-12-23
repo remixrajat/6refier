@@ -1,0 +1,70 @@
+/* Popup on table click */
+
+.service-table-modal{
+    width: 90vw;
+    margin: 0 auto;
+}
+
+.service-table-modal-heading{
+    text-align: center;
+    background: #2B3A42;
+    margin-bottom: 40px;
+}
+
+.service-table-modal-heading h4{
+    color: white;
+}
+
+.service-table-modal-heading .close{
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    color: white;
+    opacity: 1;
+}
+
+
+.service-table-modal-heading .close:hover{
+    background: white;
+    color: #2B3A42;
+}
+
+/* Table */
+
+.service-table{
+  /* box-shadow: 5px 10px 5px rgba(0, 0, 0, 0.5); */
+}
+
+.service-table td{
+    text-align: justify;
+}
+
+.service-serviceName{
+    background: #e6e6e6;
+}
+
+.service-quantityAlloted{
+    background: #d3d3d3;
+}
+
+.service-quantityUsed{
+    background: #aaaaaa;
+}
+
+.service-quantityRemaining{
+    background: #999999;
+}
+
+.service-button{
+    background: #cccccc;
+    padding: 0;
+    margin: 0;
+}
+
+.service-button > .btn{
+    background: #cccccc;
+    border: none;
+    color: black;
+    outline: none;
+    text-align: center;
+}
